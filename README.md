@@ -3,4 +3,8 @@ In this project I intend to experiment with the basic functionality of GIT.
 
 This is a change, made in the readme edits branch!
 
+check staging
+
+check 2
+
 
